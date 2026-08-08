@@ -17,29 +17,31 @@
 
 #### 🌺 Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 #### 🌷 Web Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 #### 🌸 AI / ML
 
-<p> <img src="https://skillicons.dev/icons?i=python,opencv" /> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
 
 #### 🌸 Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 #### 🎀 Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -64,23 +66,26 @@ Building an AI-powered fitness assistant using **Computer Vision & Pose Estimati
 
 *My GitHub Universe* 🌌
 
----
+🔥 **GitHub Streak**
+📈 **GitHub Contributions**
+💻 **Most Used Languages**
+⭐ **Repository Statistics**
 
-### 🏆 `achievements.log`
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kapileswaraputejasri&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-*Little milestones along the way* ✨
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kapileswaraputejasri&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapileswaraputejasri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 👀 `visitors.counter`
-
-*Thanks for stopping by!* 🌷
-
----
-
-### 💭 `random_dev_quote`
-
-*Sometimes the code writes itself...* ☕
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapileswaraputejasri&theme=tokyonight" />
+</p>
 
 ---
 
@@ -97,7 +102,3 @@ Building an AI-powered fitness assistant using **Computer Vision & Pose Estimati
 ### 🌸 `end_of_file`
 
 **Learn • Build • Solve • Grow** 🚀
-
-`console.log("Thanks for visiting my profile!");`
-
----
