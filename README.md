@@ -10,9 +10,9 @@
 💡 Passionate about **Software Development & Artificial Intelligence**
 
 ---
-<p align="center">
+
 ### 💻 `my_stack.ts` — Skills & Tools
-</p>
+
 
 #### 🌺 Languages
 
