@@ -1,13 +1,13 @@
-# 💫 About Me
+#  About Me
 
-### 👋 Hi, I'm Tejasri Kapileswarapu
+###  Hi, I'm Tejasri Kapileswarapu
 
 💻 Computer Science Student | Software Developer | AI/ML Enthusiast
 
-🎓 B.Tech CSE Student
-🤖 Currently working on **Real-Time AI Gym Trainer**
-🧠 Exploring **AI/ML, Computer Vision & Data Structures**
-💡 Passionate about **Software Development & Artificial Intelligence**
+ B.Tech CSE Student
+ Currently working on **Real-Time AI Gym Trainer**
+ Exploring **AI/ML, Computer Vision & Data Structures**
+ Passionate about **Software Development & Artificial Intelligence**
 
 ---
 
@@ -46,9 +46,9 @@
 
 ---
 
-### 🚀 `currently_building.ai`
+###  `currently_building.ai`
 
-*Turning ideas into intelligent solutions* 🤖
+*Turning ideas into intelligent solutions* 
 
 🏋️ **Real-Time AI Gym Trainer**
 
